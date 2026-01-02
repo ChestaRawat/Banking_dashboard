@@ -4,13 +4,13 @@ Power BI Analytics Project
 
 Project Overview
 
-This project focuses on analyzing banking transaction and customer account data to uncover actionable insights related to customer behavior, branch performance, financial risk, and liquidity trends. Using Power BI, the project transforms raw banking datasets into an interactive dashboard that supports data-driven decision-making for financial institutions.
+This project focuses on analyzing banking transaction and customer account data to uncover actionable insights related to customer behavior, branch performance, financial risk, and liquidity trends.
+
+Using Power BI, the project transforms raw banking datasets into an interactive dashboard that supports data-driven decision-making for financial institutions.
 
 The analysis emphasizes data cleaning, proper data modeling, and purposeful use of DAX, ensuring reliable insights rather than overengineered calculations.
 
 Business Objectives
-
-The primary goals of this project are to:
 
 Understand customer transaction behavior and trends over time
 
@@ -25,6 +25,7 @@ Support financial risk management, customer retention, and operational efficienc
 Dataset Description
 
 BankingDataset1 – Transactions Data
+
 Contains transaction-level information:
 
 TransactionID
@@ -44,6 +45,7 @@ BranchCode
 Currency
 
 BankingDataset2 – Account & Customer Data
+
 Contains account-level and customer information:
 
 AccountNumber
@@ -165,4 +167,5 @@ This project demonstrates how raw banking data can be transformed into actionabl
 Contact
 
 Chesta Rawat
+
 Email: cheenarawat09@gmail.com
